@@ -1,0 +1,22 @@
+[
+    {
+        "nom": "POATY",
+        "prenom": "Messa",
+        "age": 22
+    },
+    {
+        "nom": "XXXX",
+        "prenom": "yyyy",
+        "age": 30
+    },
+    {
+        "nom": "oooo",
+        "prenom": "eeeee",
+        "age": 18
+    },
+    {
+        "nom": "Doe",
+        "prenom": "John",
+        "age": 30
+    }
+]

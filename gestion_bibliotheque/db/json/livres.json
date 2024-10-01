@@ -1,0 +1,41 @@
+[
+    {
+        "_Livre__titre": "xxxx",
+        "_Livre__auteur": {
+            "_Auteur__nom": "POATY",
+            "_Auteur__prenom": "Messa",
+            "_Auteur__date_naissance": "xxxx",
+            "_Auteur__nationalite": "Congolaise"
+        },
+        "_Livre__annee_edition": "xxxx",
+        "_Livre__genre": "xxxxx",
+        "_Livre__etat": "DISPONIBLE",
+        "_Livre__exemplaire": 100
+    },
+    {
+        "_Livre__titre": "Petit Prince",
+        "_Livre__auteur": {
+            "_Auteur__nom": "Antoine de Saint-Exup\u00e9ry",
+            "_Auteur__prenom": "",
+            "_Auteur__date_naissance": "1900-06-29",
+            "_Auteur__nationalite": "Fran\u00e7ais"
+        },
+        "_Livre__annee_edition": "1987",
+        "_Livre__genre": "Fiction",
+        "_Livre__etat": "DISPONIBLE",
+        "_Livre__exemplaire": 100
+    },
+    {
+        "_Livre__titre": "uuuu",
+        "_Livre__auteur": {
+            "_Auteur__nom": "iuuuu",
+            "_Auteur__prenom": "uuu",
+            "_Auteur__date_naissance": "uuuuu",
+            "_Auteur__nationalite": "uuuuu"
+        },
+        "_Livre__annee_edition": "uuuu",
+        "_Livre__genre": "uuuu",
+        "_Livre__etat": "DISPONIBLE",
+        "_Livre__exemplaire": 100
+    }
+]

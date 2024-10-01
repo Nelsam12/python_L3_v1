@@ -1,0 +1,5 @@
+Installer startUML
+créer un environnement virtuel
+installer tabulate => pip install tabulate
+ouvrir le fichier modelisationv1.mdj avec startUML 
+Lien téléchargement startUML => https://staruml.io/download/
